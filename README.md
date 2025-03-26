@@ -8,7 +8,7 @@
 
   - **Description**: A secret key used for cryptographic operations. This key should be kept confidential and should be a long, random string to ensure security.
     - **คำอธิบาย**: กุญแจลับที่ใช้สำหรับการทำงานทางการเข้ารหัส ควรเก็บกุญแจนี้ให้เป็นความลับและควรเป็นสตริงที่ยาวและสุ่มเพื่อให้ปลอดภัย
-  - **Example**: `s1u2p3a4w5e6e7w8o9n868ledd5f4t89`
+  - **Example**: `n12a234m09874e23`
   - **Note**: Do not share this key or hard-code it into any client-side code.
     - **หมายเหตุ**: อย่าแชร์กุญแจนี้หรือฝังไว้ในโค้ดฝั่งไคลเอนต์
 
@@ -16,7 +16,7 @@
 
   - **Description**: The Initialization Vector (IV) used for encryption processes. It should be unique and random to ensure that encryptions are secure.
     - **คำอธิบาย**: เวกเตอร์เริ่มต้น (IV) ที่ใช้สำหรับกระบวนการเข้ารหัส ควรมีความเป็นเอกลักษณ์และสุ่มเพื่อให้แน่ใจว่าการเข้ารหัสมีความปลอดภัย
-  - **Example**: `supawadee888w2e6`
+  - **Example**: `norwit290438`
   - **Note**: Just like the secret key, keep this value secure and separate from your codebase.
     - **หมายเหตุ**: เช่นเดียวกับกุญแจลับ ควรรักษาค่านี้ให้ปลอดภัยและแยกจากฐานโค้ดของคุณ
 
